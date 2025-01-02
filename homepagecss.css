@@ -1,0 +1,22 @@
+     /* Add your CSS styles here or link an external stylesheet */
+        /* Example styles for the image slider */
+        .slider-container {
+            width: 100%;
+            height: 40vh; /* Set the height to 40% of viewport height */
+            overflow: hidden;
+            position: relative;
+        }
+        .slider {
+            display: flex;
+            width: 300%; /* Set the width to accommodate three images */
+            transition: transform 0.5s ease-in-out;
+        }
+        .slide {
+            flex: 0 0 33.33%; /* Each slide takes 33.33% of the container width */
+        }
+        .slide img {
+            width: 100%;
+            height: 40vh;
+            
+        }
+     
