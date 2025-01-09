@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="styles.css"> <!-- Link to your external stylesheet -->
     <title>About Us - MeTV</title>
     <style>
-        /* Add your CSS styles here or link an external stylesheet */
+        /* Add your CSS styles here or link an external stylesheets */
         /* Example styles for the header and content */
         body {
             font-family: Arial, sans-serif;
