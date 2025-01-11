@@ -25,7 +25,7 @@
         }
         header h1 {
             font-size: 36px;
-            margin: 0; /* Remove default margin */
+            margin: 0; /* Remove default margins */
         }
         .logo-container {
             display: flex;
