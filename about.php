@@ -121,6 +121,6 @@
         <p>Email: contact@metv.com<br>Phone: +1 (555) 123-4567</p>
     </div>
 
-    <!-- Add your footer content here -->
+    <!-- Add your footer content here if you need -->
 </body>
 </html>
