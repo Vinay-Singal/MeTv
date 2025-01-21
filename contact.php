@@ -111,7 +111,7 @@ include("header.php");
             echo "<div class='container'><p>Error: " . $sql . "<br>" . $conn->error . "</p></div>";
         }
 
-        // Close the database connection
+        // Close the database connection here
         $conn->close();
     }
     ?>
