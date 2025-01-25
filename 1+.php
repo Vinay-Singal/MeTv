@@ -164,7 +164,7 @@ require("connection.php");
 
         function showSlide() {
             slideIndex = (slideIndex + 1) % slides.length;
-            const translateX = -slideIndex * 33.33; // Adjust the percentage based on the number of slides
+            const translateX = -slideIndex * 33.33; // Adjust the percentage% based on the number of slides
             slider.style.transform = `translateX(${translateX}%)`;
         }
 
