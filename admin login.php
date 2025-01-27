@@ -47,7 +47,7 @@ if(isset($_POST['SignIn']))
     else{
         echo"<script>
         alert('Invalid Details');
-        </script>";
+        </script>";;
     }
 }
 ?>
