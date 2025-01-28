@@ -52,7 +52,7 @@ require("connection.php");
             cursor: pointer;
             margin-left: 10px;
         }
-        /* Add your CSS styles here */
+        /* Add your custom CSS styles here */
         .product-card {
             border: 1px solid #bbb;
             border-radius: 5px;
