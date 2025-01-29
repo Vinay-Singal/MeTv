@@ -7,7 +7,7 @@ include('config/dbcon.php');
 ?>
 <div class="content-wrapper">
 
-<!-- Modal -->
+<!-- Modals -->
 
 <!-- delete user -->
 
