@@ -8,7 +8,7 @@ include('config/dbcon.php');
 <!-- Content Wrapper. Contains page content -->
 <div class="content-wrapper">
 
-<!-- Modal -->
+<!-- Modals -->
 <div class="modal fade" id="AddUserModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
